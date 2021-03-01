@@ -5,7 +5,6 @@ import "firebase/firestore";
 const config = {
   apiKey: "",
   authDomain: "",
-  databaseURL: "",
   projectId: "",
   storageBucket: "",
   messagingSenderId: "",
